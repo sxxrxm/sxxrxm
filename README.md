@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 [![Github Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/sxxrxm)](https://github.com/sxxrxm)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sxxrxm)](https://www.facebook.com/sxxrxm)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&link=https://instagram.com/sxxrxm](https://instagram.com/sxxrxm)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sxxrxm@gmail.com)](mailto:sxxrxm@gmail.com)
 	
