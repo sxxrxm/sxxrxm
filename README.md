@@ -19,7 +19,7 @@ WEB: JAVA, Python, Kotlin, JSP, spring, react!
 
 APP: flutter, Android, Swift!
 
-If you like my works and want to contact me... 
+#### If you like my works and want to contact me... 
 #### THANKS!!
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sxxrxm)](https://www.facebook.com/sxxrxm)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sxxrxm@gmail.com)](mailto:sxxrxm@gmail.com)
