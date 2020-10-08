@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 🌱 I’m currently learning JAVA, Python, Kotlin, JSP, spring, react, flutter, Android, Swift!
- - 📫 If you want to contact me... Firstly ##THANKS!!
+### Actually, I can do anything you want BUT... This are my major
+WEB: JAVA, Python, Kotlin, JSP, spring, react!
+
+APP: flutter, Android, Swift!
+
+If you want to contact me... Firstly 
+### THANKS!!
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sxxrxm)](https://www.facebook.com/sxxrxm)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sxxrxm@gmail.com)](mailto:sxxrxm@gmail.com)
 
