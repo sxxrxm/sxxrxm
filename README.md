@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Soorim CHOI, the COOLKID in this area 😎👋
 
 <!--
 **sxxrxm/sxxrxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 📫 How to reach me: [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sxxrxm)](https://www.facebook.com/sxxrxm)
+ - 🌱 I’m currently learning JAVA, Python, Kotlin, JSP, spring, react, flutter, Android, Swift!
+ - 📫 How to reach me:  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sxxrxm)](https://www.facebook.com/sxxrxm)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sxxrxm@gmail.com)](mailto:sxxrxm@gmail.com)
 
