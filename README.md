@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Actually, I can do anything you want BUT... This are my major
+### Actually, I can do anything you want BUT... I'm learning,,,
 WEB: JAVA, Python, Kotlin, JSP, spring, react!
 
 APP: flutter, Android, Swift!
