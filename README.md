@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Actually, I can do anything you want BUT... I'm learning,,,
-WEB: JAVA, Python, Kotlin, JSP, spring, react!
+WEB: JAVA, Python, JSP, spring, react!
 
-APP: flutter, Android, Swift!
+APP: Flutter, Android(JAVA&Kotlin), Swift!
 
+DB: MY SQL, ORACLE
 #### If you like my works and want to contact me... 
 #### THANKS!!
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sxxrxm)](https://www.facebook.com/sxxrxm)
