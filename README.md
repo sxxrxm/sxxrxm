@@ -19,7 +19,7 @@ WEB: JAVA, Python, JSP, spring, react!
 
 APP: Flutter, Android(JAVA&Kotlin), Swift!
 
-DB: MY SQL, ORACLE
+DB: MYSQL, ORACLE
 #### If you like my works and want to contact me... 
 #### THANKS!!
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sxxrxm)](https://www.facebook.com/sxxrxm)
