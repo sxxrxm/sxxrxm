@@ -2,13 +2,13 @@
 **sxxrxm/sxxrxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Soorim%20CHOI&fontSize=90&animation=twinkling&fontAlignY=40)
-<p align="center">
+<h1 align="center">
   My name is Soorim CHOI 😎👋
   <br>
   I prefer back-end like severs&DB.
   <br><br>
   The Programming Languages&Frameworks&Databases which I ever used.
-</p>
+</h1>
 <p align="center">
   
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
