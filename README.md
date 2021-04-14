@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Soorim%20CHOI&fontSize=90&animation=twinkling&fontAlignY=40)
+<center>
 ## My name is Soorim CHOI 😎👋
+</center>
 
 <!--
 **sxxrxm/sxxrxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
