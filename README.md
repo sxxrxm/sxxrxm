@@ -5,11 +5,7 @@
 
 -->
 ### Actually, I can do anything you want BUT... I'm learning,,,
-WEB: JAVA, Python, JSP, spring, react!
-
-APP: Flutter, Android(JAVA&Kotlin), Swift!
-
-DB: MYSQL, ORACLE
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 #### If you like my works and want to contact me... 
 #### THANKS!!
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,7 +14,3 @@ DB: MYSQL, ORACLE
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sxxrxm&count_private&hide=issues,prs&true&show_icons=true" />
 </a>
- [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sxxrxm)](https://www.facebook.com/sxxrxm)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sxxrxm@gmail.com)](mailto:id.sxxrxm@gmail.com)
-
-
