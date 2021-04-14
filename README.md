@@ -6,9 +6,11 @@
   My name is Soorim CHOI 😎👋
   <br>
   I prefer back-end like severs&DB.
+</h1>
+<h4 align="center">
   <br><br>
   The Programming Languages&Frameworks&Databases which I ever used.
-</h1>
+ </h4>
 <p align="center">
   
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
