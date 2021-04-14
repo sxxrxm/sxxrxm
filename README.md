@@ -46,6 +46,7 @@
 </a>
 <br>
 <br>
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href=mailto:id.sxxrxm@gmail.com />
+<a href="mailto:id.sxxrxm@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@sxxrxm"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for=-the-badge&logo=Vimeo&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=gradient&height=300)
