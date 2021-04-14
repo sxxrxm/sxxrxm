@@ -5,10 +5,9 @@
 <p align="center">
   My name is Soorim CHOI 😎👋
 </p>
-### Actually, I can do anything you want BUT... I'm learning,,,
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-#### If you like my works and want to contact me... 
-#### THANKS!!
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxrxm&layout=compact" />
 </a>
