@@ -7,7 +7,7 @@
   <br>
   I prefer back-end like severs&DB.
 </h1>
-<!-- <h4 align="center">
+<h4 align="center">
   <br><br>
   The Programming Languages&Frameworks&Databases which I ever used.
  </h4>
@@ -39,9 +39,7 @@
  <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
  <br>
- <br> -->
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+ <br> 
 <br>
 <br>
 <a href="mailto:id.sxxrxm@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
