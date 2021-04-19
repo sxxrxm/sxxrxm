@@ -38,7 +38,7 @@
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
- <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+ <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>ss
  <br> 
  -->
 <br>
@@ -49,4 +49,5 @@
 <a href="mailto:id.sxxrxm@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@sxxrxm"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for=-the-badge&logo=Vimeo&logoColor=white"/></a>
 </p>
+
 ![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=gradient&height=300)
