@@ -7,10 +7,11 @@
   <br>
   I prefer back-end like severs&DB.
 </h1>
-<h4 align="center">
+  <!-- <h4 align="center">
   <br><br>
   The Programming Languages&Frameworks&Databases which I ever used.
- </h4>
+ </h4>  -->
+  <!--
 <p align="center">
      
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -39,9 +40,11 @@
  <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
  <br> 
+ -->
 <br>
 <br>
+<p align = center>
 <a href="mailto:id.sxxrxm@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@sxxrxm"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for=-the-badge&logo=Vimeo&logoColor=white"/></a>
-
+</p>
 ![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=gradient&height=300)
