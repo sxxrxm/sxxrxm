@@ -15,17 +15,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               27 mins             ████████████████████░░░░░   83.3% 
-HTML                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.7%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-webapps                  32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -42,7 +41,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 
