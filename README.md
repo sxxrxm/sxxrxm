@@ -4,8 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Soorim%20CHOI&fontSize=90&animation=twinkling&fontAlignY=40)
 <h1 align="center">
   My name is <b>Soorim CHOI<b> 😎👋
-  <br>
-  I prefer back-end like severs&DB.
 </h1>
   
 <!--START_SECTION:waka-->
