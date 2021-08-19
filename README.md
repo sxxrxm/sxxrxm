@@ -13,16 +13,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     28 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ppt_(ch)-07-canvas및 실습자료 28 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.0%
 
 ```
 
@@ -39,7 +39,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
 
 
