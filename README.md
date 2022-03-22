@@ -3,23 +3,23 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 18 Contributions in the Year 2022
+> 🏆 20 Contributions in the Year 2022
  > 
 > 📦 188.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    110 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.73% 
-🌆 Daytime    104 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.05% 
-🌃 Evening    18 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.03% 
-🌙 Night      126 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.2%
+🌞 Morning    110 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.64% 
+🌆 Daytime    105 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.25% 
+🌃 Evening    18 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.01% 
+🌙 Night      126 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.1%
 
 ```
 
@@ -64,7 +64,7 @@ Swift                    2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 22/03/2022 02:03:16 UTC
+ Last Updated on 22/03/2022 07:26:52 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxxrxm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sxxrxm)](https://github.com/eungyeole/velog-readme-stats)
