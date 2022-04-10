@@ -59,7 +59,7 @@ Swift                    2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 09/04/2022 18:42:09 UTC
+ Last Updated on 10/04/2022 18:42:24 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxxrxm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sxxrxm)](https://github.com/eungyeole/velog-readme-stats)
