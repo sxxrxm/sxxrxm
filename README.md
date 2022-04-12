@@ -28,21 +28,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Git Config               15 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.67% 
-Java                     10 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.29% 
-Markdown                 5 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.06% 
-HTML                     1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.02% 
-XML                      1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.64%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 34 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          19 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.63% 
-DUCKGoo                  15 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.37%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      34 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -59,7 +54,7 @@ Swift                    2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 10/04/2022 18:42:24 UTC
+ Last Updated on 12/04/2022 18:43:42 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxxrxm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sxxrxm)](https://github.com/eungyeole/velog-readme-stats)
